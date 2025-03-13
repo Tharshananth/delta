@@ -1,4 +1,4 @@
-# delta
+# Delta Headlines
 #   RAG-Based Summarization with DeepSeek-AI & Sentence Transformers
 
 ##   Overview
