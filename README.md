@@ -7,6 +7,8 @@ https://github.com/user-attachments/assets/b00d0632-8a31-407c-ac55-41b9255e0fdf
 
 ##   Overview
 
+[![Watch the video](https://img.youtube.com/vi/YJuqR8Gn9oY/maxresdefault.jpg)](https://www.youtube.com/watch?v=YJuqR8Gn9oY)
+
 This project focuses on Retrieval-Augmented Generation (RAG) summarization using `deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B` and `sentence-transformers/all-mpnet-base-v2`. Additionally, it includes text-to-speech conversion using `gtts`.
 
 ##   Key Technologies
