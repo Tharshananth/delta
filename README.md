@@ -1,8 +1,7 @@
 
 
-https://github.com/user-attachments/assets/b00d0632-8a31-407c-ac55-41b9255e0fdf
 
-# Delta Headlines
+# war reporter
 #   RAG-Based Summarization with DeepSeek-AI & Sentence Transformers
 
 ##   Overview
